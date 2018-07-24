@@ -1,2 +1,4 @@
 # hello-world
-intro to github
+
+Hello hello!
+I'm a Python developer here sharpening my GitHub skills so I can learn how to contribute to the open source community :)
